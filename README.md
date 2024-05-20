@@ -59,12 +59,6 @@
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
     <img src="assest/pdf.jpg" alt="Logo" width="200" height="400">
-  </a> 
-  <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/note.jpg" alt="Logo" width="200" height="400">
-  </a>
-  <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/user&role.jpg" alt="Logo" width="200" height="400">
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
